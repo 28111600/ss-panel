@@ -28,7 +28,7 @@ require_once '../lib/config.php';
         <a href="#"><b><?php echo $site_name;  ?></b></a>
     </div><!-- /.login-logo -->
     <div class="login-box-body">
-        <p class="login-box-msg">登录到用户中心</p>
+        <p class="login-box-msg">登录</p>
 
             <form>
             <div class="form-group has-feedback">
@@ -63,7 +63,7 @@ require_once '../lib/config.php';
                 <p id="msg-error-p"></p>
             </div>
         <a href="resetpwd.php">忘记密码</a><br>
-        <a href="register.php" class="text-center">注册个帐号</a>
+        <a href="register.php" class="text-center">注册</a>
 
     </div><!-- /.login-box-body -->
 </div><!-- /.login-box -->
