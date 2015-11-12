@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col l6 s12">
                 <h5 class="white-text">关于</h5>
-                <p class="grey-text text-lighten-4">本站提供某种帐号用于科学上网.</p>
+                <p class="grey-text text-lighten-4">本站仅供参考学习.</p>
 
 
             </div>
@@ -25,7 +25,7 @@
     </div>
     <div class="footer-copyright">
         <div class="container">
-            &copy; <?php echo $site_name."  ".date('Y'); ?>  Powered by <a class="orange-text text-lighten-3" href="https://github.com/28111600/ss-panel">ss-panel Custom Version</a> <?php echo $version; ?>
+            &copy; <?php echo $site_name."  ".date('Y'); ?>  Powered by <a class="orange-text text-lighten-3" href="https://github.com/28111600/ss-panel-xd">ss-panel-xd</a> (ss-panel custom version) <?php echo $version; ?>
             Processed in <?php
             $Runtime->Stop();
             echo $Runtime->SpendTime()."ms";
