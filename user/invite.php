@@ -28,7 +28,7 @@ $code = $invite->CodeArray();
                             <h3 class="box-title">邀请</h3>
                         </div><!-- /.box-header -->
                         <div class="box-body">
-                            <p>当前您可以生成<code><?php   echo $U->InviteNum();  ?></code>个邀请码。  </p>
+                            <p>当前可以生成<code><?php   echo $U->InviteNum();  ?></code>个邀请码。  </p>
                             <?php  if($U->InviteNum() !=0){ ?>
                                 <button id="invite" class="btn btn-sm btn-info">生成我的邀请码</button>
                             <?php } ?>
@@ -86,8 +86,7 @@ $code = $invite->CodeArray();
                                 <h4>说明</h4>
                                 <p>用户注册48小时后，才可以生成邀请码。</p>
                                 <p>邀请码暂时无法购买，请珍惜。</p>
-                                <p>公共页面不定期发放邀请码，如果用完邀请码可以关注公共邀请。</p>
-                            </div>
+                           </div>
 
                         </div><!-- /.box-body -->
                     </div><!-- /.box -->
