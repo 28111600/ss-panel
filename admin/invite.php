@@ -53,9 +53,7 @@ $code = $invite->CodeArray();
                                 <button type="submit" name="action" value="add" class="btn btn-primary">添加</button>
                             </div>
 
-                            <div class="box-footer">
-                                <p>邀请码类别0的<a href="../code.php">在这里查看</a> </p>
-                            </div>
+                          
                         </form>
                     </div>
                 </div><!-- /.box -->
