@@ -1,5 +1,8 @@
 ss-panel-xd
 ========
+### Info
+
+* Customized version
 
 ### Requirements
 * PHP >= 5.4
@@ -23,6 +26,6 @@ $ php composer.phar  install
 ```
 
 ### Thanks to
-* [orvice](https://github.com/orvice/ss-panel)
+* [orvice](https://github.com/orvice/ss-panel/tree/v2)
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
 * [Medoo](https://github.com/catfan/Medoo)
