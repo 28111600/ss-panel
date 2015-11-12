@@ -18,15 +18,14 @@
             <div class="col l3 s12">
                 <h5 class="white-text">页面</h5>
                 <ul>
-                    <li><a class="white-text" href="code.php">邀请码</a></li>
-                    <li><a class="white-text" href="user/tos.php">TOS</a></li>
+                     <li><a class="white-text" href="user/tos.php">TOS</a></li>
                 </ul>
             </div>
         </div>
     </div>
     <div class="footer-copyright">
         <div class="container">
-            &copy; <?php echo $site_name."  ".date('Y'); ?>  Powered by <a class="orange-text text-lighten-3" href="https://github.com/orvice/ss-panel">ss-panel</a> <?php echo $version; ?>
+            &copy; <?php echo $site_name."  ".date('Y'); ?>  Powered by <a class="orange-text text-lighten-3" href="https://github.com/28111600/ss-panel">ss-panel Custom Version</a> <?php echo $version; ?>
             Processed in <?php
             $Runtime->Stop();
             echo $Runtime->SpendTime()."ms";
