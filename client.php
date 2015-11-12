@@ -7,14 +7,13 @@ include_once 'header.php';
 <div class="section no-pad-bot" id="index-banner">
 <div class="container">
             <br><br>
-            <h3 class="header">客户端</h1>
             <div class="row">
           <h4>OS X 客户端</h4>
           <p>
             </p><ul>
               <li><a href="https://github.com/shadowsocks/shadowsocks-gui">shadowsocks-gui</a> - Cross-platform GUI powered by node and Webkit</li>
               <li><a href="https://github.com/ohdarling/GoAgentX">GoAgentX</a> - OS X client, with GUI</li>
-		<li><a href="https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help">Shadowsocks for Mac</a> - Shadowsocks GUI designed for OS X 10.7+</li>
+	      <li><a href="https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-Help">Shadowsocks for Mac</a> - Shadowsocks GUI designed for OS X 10.7+</li>
             </ul>
           <p></p>
 
