@@ -45,7 +45,7 @@ $unix_time = $oo->get_last_unix_time();
                         </div><!-- /.box-header -->
                         <div class="box-body">
                             <p>流量不会重置，可以通过签到获取流量。</p> 
-                            <p>流量可以通过签到获取，基本每天可以用1G流量。</p> 
+                            <p>流量可以通过每天签到获取。</p> 
                         </div><!-- /.box-body -->
                     </div><!-- /.box -->
                 </div><!-- /.col (right) -->
