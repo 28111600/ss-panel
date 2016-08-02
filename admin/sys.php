@@ -11,7 +11,7 @@ $ssmin = new \Ss\Etc\Ana();
         <section class="content-header">
             <h1>
                 系统信息
-                <small>User Center</small>
+                <small>System Information</small>
             </h1>
         </section>
 
