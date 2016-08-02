@@ -117,6 +117,12 @@ require_once '_check.php';
                         <i class="fa fa-users"></i> <span>邀请管理</span>
                     </a>
                 </li>
+              
+                <li>
+                    <a href="sys.php">
+                        <i class="fa fa-info-circle"></i> <span>系统信息</span>
+                    </a>
+                </li>
                 
             </ul>
         </section>
