@@ -8,6 +8,7 @@ require_once '_check.php';
     <meta charset="UTF-8">
     <title><?php echo $site_name;  ?></title>
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+    <link href="/favicon.ico" rel="shortcut icon">
     <!-- Bootstrap 3.3.2 -->
     <link href="../asset/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <!-- Font Awesome Icons -->
